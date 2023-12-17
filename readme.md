@@ -162,7 +162,7 @@ bfs('Arad', 'Bucharest')
 
 ```
 
-## output
+## Output
 
 ![BFS](./public/bfs-romania-map-problem-output.png)
 
